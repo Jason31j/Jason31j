@@ -103,3 +103,9 @@
         <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
     </a>
 </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jason31j&show_icons=true&locale=en&layout=compact" alt="jason31j" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jason31j&show_icons=true&locale=en" alt="jason31j" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jason31j&theme=highcontrast" alt="jason31j" /></p>
