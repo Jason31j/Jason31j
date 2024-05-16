@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jason Grajales</h1>
 <h3 align="center">A passionate developer from Panama</h3>
 
-- 👨‍💻 More about me and my projects are available in my [portfolio](htttps://www.jasongrajales.me)
+- 👨‍💻 More about me and my projects are available in my <a href="https://jasongrajales.me/" target="_blank">portfolio</a>.
 
 - 📫 How to reach me **jasongrajales31@gmail.com**
 
